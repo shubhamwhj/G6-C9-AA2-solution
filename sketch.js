@@ -7,6 +7,7 @@ function setup()
  box.x=0;
  box.y=150;
  box.velocityX=5
+ box.rotation=50
 }
 
 function draw()
