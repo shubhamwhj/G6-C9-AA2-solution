@@ -6,7 +6,7 @@ function setup()
  box.shapeColor = color(255);
  box.x=0;
  box.y=150;
- box.velocityX=5
+ box.velocityY=5
  box.rotation=50
 }
 
